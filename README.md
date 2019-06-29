@@ -1,2 +1,2 @@
-# Clojure-
+# Clojure
 Clojure language projects. 
